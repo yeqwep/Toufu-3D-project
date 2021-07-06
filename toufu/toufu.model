@@ -1,0 +1,7 @@
+mesh: "/toufu/toufu.dae"
+material: "/toufu/materials_asset/toufu.material"
+textures: "/toufu/skin_s.png"
+skeleton: "/toufu/toufu.dae"
+animations: "/toufu/toufu.dae"
+default_animation: "toufu"
+name: "unnamed"
