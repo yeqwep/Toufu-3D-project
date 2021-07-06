@@ -1,4 +1,4 @@
-#　Inporting "dae" into Defold
+# Inporting "dae" into Defold
 
 This is a sample of importing dae file into Defold.
 
