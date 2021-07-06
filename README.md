@@ -1,17 +1,18 @@
-# Welcome to Defold
+#　Inporting "dae" into Defold
 
-This project was created from the "basic 3D" project template.
+This is a sample of importing dae file into Defold.
 
-The settings in ["game.project"](defold://open?path=/game.project) are mostly set to the default values. The render script is a modified version of the default render script with the addition that models are rendered in a separate pass after 2D components such as sprites and tilemaps. The physics type is set to 3D and not 2D.
+The "toufu" folder contains animated models and simple materials.
 
-The project contains a bootstrap ["main.collection"](defold://open?path=/main/main.collection) that includes a game object with a camera component and a game object with three different models.
+## Tips
+1.One mesh ,One Material, One Action
+![1](https://user-images.githubusercontent.com/38267288/124575921-c8c0e200-de86-11eb-8880-2bb45f15ffb5.jpg)
 
-Check out [the documentation pages](https://defold.com/learn) for examples, tutorials, manuals and API docs.
+2.Bake Action
+![2](https://user-images.githubusercontent.com/38267288/124575990-d9715800-de86-11eb-9dc2-7c95c16d352b.jpg)
 
-If you run into trouble, help is available in [our forum](https://forum.defold.com).
+3.Select Pose Position
+![3](https://user-images.githubusercontent.com/38267288/124576061-e9893780-de86-11eb-8751-6243808ff347.jpg)
+
 
 Happy Defolding!
-
-## Credits
-
-* Textures by Kenney (https://www.kenney.nl)
