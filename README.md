@@ -1,5 +1,6 @@
 # Inporting "dae" into Defold
-
+![testwefqewf](https://user-images.githubusercontent.com/38267288/124579546-2d317080-de8a-11eb-8559-fe79ba341d3e.gif)
+  
 This is a sample of importing dae file into Defold.
 
 The "toufu" folder contains animated models and simple materials.
