@@ -4,7 +4,7 @@ This is a sample of importing dae file into Defold.
 
 The "toufu" folder contains animated models and simple materials.
 
-## Tips
+## Please try it Tips
 ### 1.One mesh ,One Material, One Action
 ![1](https://user-images.githubusercontent.com/38267288/124575921-c8c0e200-de86-11eb-8880-2bb45f15ffb5.jpg)
 
