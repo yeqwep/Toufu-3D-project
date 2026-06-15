@@ -1,3 +1,8 @@
+> [!NOTE]
+>Notice of Archive**
+> 
+> This repository has been archived and is now read-only. We are no longer accepting issues or pull requests.
+
 # Inporting "dae" into Defold
 ![testwefqewf](https://user-images.githubusercontent.com/38267288/124579546-2d317080-de8a-11eb-8559-fe79ba341d3e.gif)
   
